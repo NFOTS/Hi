@@ -8,6 +8,6 @@
 </head>
 <body>
 <h1>test1.jsp</h1>
-<h2>수정</h2>
+<h2>수정함</h2>
 </body>
 </html>
